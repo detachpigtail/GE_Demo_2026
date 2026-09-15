@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "com.unity.springbone": "file:com.unity.springbone",
+    "com.unity.toonshader": "0.15.0-preview",
     "com.unity.ai.navigation": "2.0.14",
     "com.unity.connect.share": "4.2.4",
     "com.unity.feature.development": "1.0.2",
